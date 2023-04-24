@@ -1,0 +1,93 @@
+===============================================================================
+LISTAS_UNIDIMENSIONAL: 
+
+main1.py - DECLARAR UNA LISTA DE TAMAÑO FIJO Y VARIABLE
+main2.py - LLENAR Y RECORRER UNA LISTA
+main3.py - ELIMINAR ELEMENTOS DE UNA LISTA
+main4.py - SEPARAR LOS NUMEROS PARES E IMPARTES EN DOS LISTAS DISTINTAS
+main5.py - ELIMINAR DUPLICADOS (OPERADORES ESPECIALES)
+main6.py - TABULAR UNA TABLA CON DATOS EN VECTORES
+main7.py - HACER UN PROGRAMA QUE GUARDE EN UN VECTOR(LISTA) LOS N NUMEROS PRIMOS
+main8.py - COMPROBAR SI UNA PALABRA ES PALINDROMO
+main9.py - CONTAR LA CANTIDAD DE VOCALES Y CONSONANTES PRESENTES EN UNA ORACION.
+===============================================================================
+LISTAS_BIDIMENSIONALES
+
+main1.py: DECLARAR UNA MATRIZ CON DATOS FIJOS
+          DECLARAR UNA MATRIZ CON DATOS DINAMICOS
+
+main2.py: CREAR UNA MATRIZ DE 3X4 CON NUMEROS ALEATORIOS DADO
+main3.py: MODIFICAR LA MATRIZ DEL MAIN2, LOS PARES SERAN 0 Y LOS IMPARES 1
+main4.py: DEL EJEMPLO MAIN2 SACAR EL MINIMO, MAXIMO Y LA MEDIA DE CADA FILA
+main5.py: DEL EJEMPLO MAIN2(ORIGINAL) SACAR EL MINIMO, MAXIMO Y LA MEDIA DE
+          LA DIAGONAL (ASUMIR UNA MATRIZ CUADRADA)
+main6.py: LLENAR UNA MATRIZ DE 3X3 CON NUMEROS ALEATORIAS ENTRE 1 Y 20, PERO
+          TODOS LOS NUMEROS TIENEN QUE SER DISTINTOS.
+main7.py: LLENAR UNA MATRIZ CON LETRAS ALEATORIAS
+===============================================================================
+CADENAS
+
+main1.py: 1. RECORRER UNA CADENA X ELEMENTOS
+          2. RECORRER UNA CADENA X INDICE
+          3. RECORRER UNA CADENA CON NUMERATOR
+          4. RECORRER UNA CADENA COMO UNA LISTA DE CARACTERES
+
+main2.py: NOTACION REBANADO   
+
+main3.py: INVERTIR UNA CADENA(SIN UTILIZAR EL REBANADO)
+
+main4.py: MODIFICAR UNA CADENA. REMPLAZAR TODAS LAS VOCALES POR X
+
+main5.py: ELIMINAR TODOS LOS NUMEROS DE UNA CADENA
+          Dirección Pardo 234, Bloque 3, Piso 2
+
+main6.py: INDICAR QUE UNA CADENA COMIENZA CON UNA SUBCADENA DADA
+          cadena = "hola mundo"
+          subcadena = "nose" No
+                      "hola" SI
+                      "ho"   SI
+                      "h"    SI
+                      "la"   NO
+                      "HOLA" NO
+
+main7.py: CONTAR LAS VECES QUE SE REPITE LAS PALABRAS DISTINTAS EN UNA
+          ORACION.
+===============================================================================
+SET (CONJUNTO)
+
+lista   = [1, 4, 5, 5] elemento y indice
+cojunto = {1, 4, 5, 5} = {1, 4, 5} elemento
+
+main1.py 1. Crear un conjunto
+         2. Eliminar duplicados de una lista
+         3. Añadir elementos a un conjunto a partir de una lista
+         4. Lo mismo que 3 pero de otra forma
+
+main2.py 1. Remover un elemento de un conjunto
+         2. Remover todos los elementos de un conjunto.
+         3. Remover uno a uno los elementos de un conjunto con el pop.
+         4. Preguntar antes de remover un elemento.
+
+main3.py 1. Intersección
+         2. Unión
+         3. Diferencia
+         4. inclusión
+         5. disjuntos
+===============================================================================
+DICCIONARIO (DIC)
+
+Sus elementos son key-value
+Clave: Número, Cadena, Tupla
+
+main1.py: 1. Crear un diccionario clave Cadena
+          2. Crear un diccionario clave Número
+          3. Crear un diccionario clave Tupla
+
+main2.py: 1. Añadir elementos a un diccionario
+
+main3.py: Buscar un valor dado la clave.
+
+
+
+
+===============================================================================

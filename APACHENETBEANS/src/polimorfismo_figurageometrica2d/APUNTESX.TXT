@@ -1,0 +1,58 @@
+POLIMORFISMO: Cuando un objeto puede tomar muchas formas.
+
+1. Que formas puede tomar el objeto FiguraGeometrica2D
+
+   Triaungulo
+   Circulo
+   Cuadrado
+   Rectangulo
+   etc.
+
+   Decimos entonces que Triagulo es una especialización de FiguraGeometrica2D
+
+2. Una caracteristica de todos los objetos anteriores
+
+   área
+   perimetro
+
+3. Si le preguntas a FiguraGeometria2D cual es su área
+
+   No puedo saberlo porque figura geométrica es algo genérico(abstracto)
+   Lo que si tengo claro que las figuras geometrias 2D tienen un área
+   Entonces área no puede estar implementado en FiguraGeometrica2D tienen que implementar sus especializaciones
+
+4. Si le preguntan al Triangulo cual es su área
+
+   Entonces si sabe como calcularlo entonces debe implementarlo
+
+5. Si le preguntamos a FiguraGeometrica2D tus epecializaciones cuantas dimensiones tiene
+
+   Me responderá que si son de 2 dimensiones
+
+CLASE      	CLASE
+ABSTRACTA
+
+		     Triangulo
+FiguraGeometrica2D   Circulo
+       		     Cuadrado
+                     Rectangulo
+
+
+No se puede instanciar una clase abstracta pero podemos crear una variable de tipo
+FiguraGeometrica2D y asignarle un objeto de la clase Triangulo, Circulo, Cuadrado, Rectangulo
+
+La clase bastracta declara la existencia de las caracteristica común a todas sus especializaciones pero
+no su implmentación.
+
+Una clase abstracta puede contener métodos no abstractos pero al menos uno de los métodos sí debe serlo.
+
+Cuando las epecializaciones hereden de la clase abstracta sólo estan obligadas si o si a implementar
+sólo los métodos que tienen la palabra abstract.
+
+Entonces la clase abstracta sólo implementa lo que sabe y lo que no sabe lo debe implementar sus
+especializaciones y para eso la clase abstracta le pone al método el nombre abstract aquello
+que no sabe como implementar y aquello que si sabe como implementar no le pone abstract por lo tanto
+las epecializaciones no tienen que implementar.
+
+
+T:\TOSHIBAHDD\S.0(C)\B11\WALTER--024\APUNTES 21-03-2009\PRUEBAS DE BORRADOR DIVERSAS\POLIMORFISMO\TOPICO --- POLIMORFISMO ---\EJEMPLO 1

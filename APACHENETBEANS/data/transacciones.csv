@@ -1,0 +1,37 @@
+IDTRANSACCION;CIUDAD;ZONA;VENTAS;FORMA PAGO;CATEGORIA
+1;Santander;Norte;1235;Contado;Electrodoméstico
+2;Santander;Norte;639.2;Tarjeta;Electrodoméstico
+3;Santander;Norte;621.39;Contado;Informática
+4;Santander;Norte;1259.5;Tarjeta;Informática
+5;Santander;Norte;2563.25;Contado;Audio y televisión
+6;Santander;Norte;1258.12;Tarjeta;Audio y televisión
+7;Sevilla;Sur;725.26;Contado;Electrodoméstico
+8;Sevilla;Sur;2563.39;Tarjeta;Electrodoméstico
+9;Sevilla;Sur;1258.36;Contado;Informática
+10;Sevilla;Sur;1578.3;Tarjeta;Informática
+11;Sevilla;Sur;953.26;Contado;Audio y televisión
+12;Sevilla;Sur;2359.25;Tarjeta;Audio y televisión
+13;Vigo;Norte;1259.14;Contado;Electrodoméstico
+14;Vigo;Norte;856.5;Tarjeta;Electrodoméstico
+15;Vigo;Norte;420.3;Contado;Informática
+16;Vigo;Norte;2853;Tarjeta;Informática
+17;Vigo;Norte;1933.6;Contado;Audio y televisión
+18;Vigo;Norte;1253.25;Tarjeta;Audio y televisión
+19;Alicante;Levante;3215.3;Contado;Electrodoméstico
+20;Alicante;Levante;1253.25;Tarjeta;Electrodoméstico
+21;Alicante;Levante;698.65;Contado;Informática
+22;Alicante;Levante;2653.26;Tarjeta;Informática
+23;Alicante;Levante;1588.99;Contado;Audio y televisión
+24;Alicante;Levante;996.65;Tarjeta;Audio y televisión
+25;Valencia;Levante;1254.4;Contado;Electrodoméstico
+26;Valencia;Levante;782.69;Tarjeta;Electrodoméstico
+27;Valencia;Levante;2133.25;Contado;Informática
+28;Valencia;Levante;1120.36;Tarjeta;Informática
+29;Valencia;Levante;1258.33;Contado;Audio y televisión
+30;Valencia;Levante;1255.2;Tarjeta;Audio y televisión
+31;Granada;Sur;2156.25;Contado;Electrodoméstico
+32;Granada;Sur;598.25;Tarjeta;Electrodoméstico
+33;Granada;Sur;1256.88;Contado;Informática
+34;Granada;Sur;1455.3;Tarjeta;Informática
+35;Granada;Sur;1788;Contado;Audio y televisión
+36;Granada;Sur;2120;Tarjeta;Audio y televisión

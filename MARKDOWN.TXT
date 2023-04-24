@@ -1,0 +1,33 @@
+*****************
+***   VIDEO   ***
+*****************
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=wfogZfIS03U"_blank">
+     <img src="https://i.ytimg.com/vi/wfogZfIS03U/hq720.jpg" alt="Expresiones Regulares" width="400" height="300" border="10" /></a>
+  <a href="https://www.youtube.com/watch?v=wfogZfIS03U"></a>
+</p>
+
+*******************************************
+***   RESALTAR UNA PALABRA EN NEGRITA   ***
+*******************************************
+
+- <strong>GENERAR</strong> UNA SERIE NATURAL DE N AL 1, USANDO PARA
+
+******************
+***   IMAGEN   ***
+******************
+
+![Arbol Decisión Fármaco](ArbolDecisionFarmaco.jpg)
+![Arbol Decisión Fármaco](./IMAGEN/ArbolDecisionFarmaco.jpg)
+![Arbol Decisión Fármaco](https://ejemplo.com/ArbolDecisionFarmaco.jpg)
+
+<img src="./IMAGEN/ArbolDecisionFarmaco.jpg" alt="Arbol Decisión Fármaco" width="300" height="300">
+
+<p align="center">
+<img src="./IMAGEN/ArbolDecisionFarmaco.jpg" alt="Arbol Decisión Fármaco" width="400" height="400">
+</p>
+
+
+
+
